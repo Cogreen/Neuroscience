@@ -1,6 +1,8 @@
-# Title : Getting NIRS data from *.oxy3 files 
-# Date: 2020.01.07
-# writer: cogreen 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Getting NIRS data from *.oxy3 files 
+% Date: 2020.01.07
+% writer: cogreen 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %% 24 channels _ ver2.2020.01.07
