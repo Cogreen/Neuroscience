@@ -1,10 +1,9 @@
-#############################################################################
-# Getting NIRS data from *.txt files 
-# Description: When NIRS data is exported as *.txt file, you use this code!
-# Date: 2019.12
-# Writer: Cogreen
-#############################################################################
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Getting NIRS data from *.txt files 
+% Description: When NIRS data is exported as *.txt file, you use this code!
+% Date: 2019.12
+% Writer: Cogreen
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 cd('Y:\CLINIC\01APM\01NIRS_EEG\Data\20191226');
 
 %% Variable setting
